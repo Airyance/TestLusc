@@ -1,0 +1,34 @@
+body{
+
+font-family: 'Noto Sans TC', sans-serif;
+
+}
+
+.navbar{
+
+	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);
+	min-height: 70px;
+
+
+}
+
+.nav-link:hover {  color: #1a1a1a;  }
+
+
+#tabla_pacientes{
+
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: auto;
+}
+
+#info{
+
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: auto;	
+
+
+}

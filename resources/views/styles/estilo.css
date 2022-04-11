@@ -1,0 +1,60 @@
+body{
+
+font-family: 'Noto Sans TC', sans-serif;
+
+}
+
+.navbar{
+
+	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);
+	min-height: 70px;
+
+
+}
+
+.nav-link:hover {  color: #1a1a1a;  }
+
+#hero{
+    
+	background-image: url('../imagenes/bkg7.jpg');
+	background-size: cover;
+	background-attachment: fixed; 
+	align-content: center;
+	padding-top: 90px;
+	min-height: 700px;
+	color: #1a1a1a;
+}
+
+#informacion{
+
+	margin-top:  80px;
+	padding-bottom: 30px;
+}
+
+
+#formulario{
+
+	margin: 60px;
+
+}
+
+#carusel{
+
+padding: 60px;
+margin-top: 30px;
+
+
+}
+
+#final{
+
+	margin-top: 60px;
+	padding: 60px;
+
+}
+
+#botonMensaje{
+
+	position: relative;
+	left: 43%;
+}

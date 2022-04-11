@@ -1,0 +1,59 @@
+body{
+
+font-family: 'Noto Sans TC', sans-serif;
+
+}
+
+.navbar{
+
+	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);
+	min-height: 70px;}
+
+
+.nav-link:hover {  color: #1a1a1a;}
+
+#recuadros{
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	margin: 15px;
+  	height: 320px;
+  	padding: 15px;
+
+  	
+}
+
+.btn-block{
+
+
+	padding: 31%  0;
+	
+}
+
+
+#boton0{background-color:  #bebebe;}
+
+#boton1{background-color: blue;}
+
+#boton2{background-color: green;}
+
+#boton3{background-color: red;}
+
+#boton4{background-color: yellow;}
+
+#boton5{background-color:  violet;}
+
+#boton6{background-color: brown;}
+
+#boton7{background-color: black;}
+
+#formularioTxt{
+	margin-top: 30px;
+	margin-bottom: 80px;
+	padding: 10px;
+
+}
+.tooltip{
+
+	position: relative 
+}

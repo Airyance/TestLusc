@@ -1,0 +1,82 @@
+body{
+
+font-family: 'Noto Sans TC', sans-serif;
+	
+}
+
+.navbar{
+
+	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .05);
+	min-height: 70px;
+
+
+}
+
+.nav-link:hover {  color: #1a1a1a;}
+
+/* CONFIGURACION DE VENTANA EMERGENTE DE LOGIN*/
+
+.main-section {
+
+	margin: 0 auto;
+	margin-top: 130px;
+	padding: 0;
+
+}
+
+.modal-content{
+
+	background-color: #4f4f4f;
+	opacity: .8;
+	padding: 0 18px,
+	border-radius: 10px;
+
+/*BLOQUE DE AJUSTE DE LA IMAGEN DE LA VENTANA DE LOGIN*/
+}
+
+.user-img img{
+
+	height: 120px;
+	width: 120px;
+}
+
+.user-img{
+
+	margin-top: -60px;
+	margin-bottom: 45px;
+}
+
+/* BLOQUE DE CONFIGURACION DE CUADROS DE TEXTOS DE LA VENTANA LOGIN*/
+.form-group input{
+
+	height: 42px;
+	border-radius: 5px;
+	border: 0;
+ /* font-size: 18px;
+	letter-spacing: 0px;
+	padding-left: 10px;
+*/
+	
+}
+
+.form-input button{
+
+	width: 40%;
+	margin: 5px 0 25px;
+
+}
+
+.btn-success:hover {
+
+	background-color:  #21f037;
+	border: 1px solid #daf1ff;
+}
+
+.forgot{
+	padding: 5px 0 25px;
+}
+
+.forgot a {
+
+	color: #daf1ff;
+}
